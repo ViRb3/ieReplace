@@ -98,6 +98,7 @@ x64/
 x86/
 bld/
 [Bb]in/
+!/Required/*
 [Oo]bj/
 [Ll]og/
 
